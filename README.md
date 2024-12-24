@@ -38,6 +38,9 @@ Projektet använder sig av följande komponenter:
 - **Kommunikation**:
  - Frontend kommunicerar med backend via HTTP-anrop och JSON-data.
 
+### Verktyg och Byggsystem
+- **Maven**: För att hantera projektets beroenden och byggprocess.
+
 ---
 
 ## Systemarkitektur
